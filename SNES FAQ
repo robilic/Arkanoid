@@ -1,0 +1,482 @@
+Arkanoid:
+\--------/      \---------/     \-/     \-/             \-/     \--------/
+/--------\      |\-------/|     | |     | |             | |     |        |
+\-/     \ \     ||       ||     | |     | |             | |     /--|  |--\
+| |      | |    ||       ||     | |-----| |             | |        |  |
+| |      | |    ||       ||     | |-----| |             | |        |  |
+/-\     / /     ||       ||     | |     | |             | |        |  |
+\--------/      |/-------\|     | |     | |             | |        |  |
+/--------\      /---------\     /-\     /-\             /-\        /--\
+
+\-/-----\-/     \---------/     \-/-----\-/     \-/     \-/------\-/
+| |-----| |     |         |     | |-----| |     | |     | |------| |
+| |     | |     |-|-------\     | |     | |     | |     | |      | |
+| |-----| |     | |   \---/     | |-----| |     | |     | |      | |
+| |-----| |     | |   |   |     | |-----| |     | |     | |      | |
+| |     | |     | |   |   |     | |     | |     | |     | |      | |
+| |     | |     | |---|   |     | |     | |     | |     | |      | |
+/-\     /-\     /-\---/---\     /-\     /-\     /-\     /-\      /-\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~      Thrashnet Ground Zero 6's No Limit FAQ for Arkanoid Doh It Again    ~
+~--------------------------------------------------------------------------~
+~Table of Contents                                                         ~
+~1) Thrashnet's POV                                                        ~
+~2) Story                                                                  ~
+~3) Setting Up (General)                                                   ~
+~4) Title Screen Options                                                   ~
+~5) Password Screen Intro                                                  ~
+~6) My Passwords!                                                          ~
+~7) Strategies                                                             ~
+~8) Enemies                                                                ~
+~9) Bosses                                                                 ~
+~10) Power Ups                                                             ~
+~11) Controls with a Controller                                            ~
+~12) Controls with a Mouse                                                 ~
+~13) Glitches                                                              ~
+~14) Obstructions                                                          ~
+~15) Options                                                               ~
+~16) Edit Mode                                                             ~
+~17) Scoring                                                               ~
+~18) Ending                                                                ~
+~19) Other Things to Watch For                                             ~
+~20) Disclaimer                                                            ~
+----------------------------------------------------------------------------
+============================================================================
+                  T H R A S H N E T ' S  P O V
+============================================================================
+        This game is one of the last ever made for the SNES.  And possibly
+the most engrossing.  However, I am seriously ticked off the way Nintendo
+made this game.  They never really did bother to check for any errors it
+seems that they were to wrapped in thier 64 bit system to give a ^$*& about
+the glitches in this game there are at least 4.  Which is way to many for a
+finished video game.  Unless you buy some pirated game, or Active Enterprise
+game.  This game is just a remake of the original one made for the NES.
+Back in my childhood years of the late 80's (THE GOOD OLDEN DAYS!).  Anyway,
+have a great time and I hope this FAQ helps you.
+============================================================================
+                               S T O R Y
+============================================================================
+        For years, Commander Therle and his people have been searching for a
+new world to call home.  Each time they get close, thier enemy, Doh, pushes
+away Therle's ships.  Recenlty, a sensor scan has detected new terra-class
+planets.  Therle sent scout ships to check them out, but Doh once again
+scattered his blocks acroos the solar system to stop the ships.  So before
+they can reach the new planets they must destroy the blocks and Doh.
+============================================================================
+                S E T T I N G  U P  ( G E N E R A L )
+============================================================================
+Insert your Arkaniod Doh It Again Game Pak into the Control Deck and then
+slide the power switch to the on position.  When the Title Screen appears
+press Start to view the Main Menu.
+============================================================================
+                  T I T L E  S C R E E N  O P T I O N S
+============================================================================
+1 Player-This option lets you start a new one player game.
+2 Player-You have three choices in 2-Player mode: A, B, or C.  In A, the
+players take turns piloting the ship.  In B, both players play
+simultaneuosly in puzzles.  In C, the screen is split and both the players
+compete against each other.
+Password-This option lets you enter a screen that lets you enter a password
+so you can continue your game.
+Options-This lets you choose from a set of options see....the Options
+section for more info.
+============================================================================
+               P A S S W O R D  S C R E E N  I N T R O
+============================================================================
+There are a total of 32 characters they are.
+B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, W, X, Z, !, ?, 0, 1, 2,
+3, 4, 5, 6, 7, 8, 9
+Each password has a total of 12 characters in them.  There are no spaces
+in the passwords when the game will give them to you.  However, they will
+have them set up in 4 groups of 4 on the password screen like this:
+                       ____ ____ ____ ____
+Don't worry about the variation just enter them like you normally would.
+============================================================================
+                          M Y  P A S S W O R D S !
+============================================================================
+LEVEL PASSWORDS:
+2-X2612V?B!LK2             35-6!2W732W?MCR             68-374W76W!GLD9
+3-W45X736H?QJM             36-6!3027!!?3!6             69-377!WV3!BMF5
+4-W38?66?C?6Z2             37-7?4?!?7??2H3             70-589?V?WG209P
+5-V321WV2CV2ZR             38-5Z7XVW??!6BM             71-5780?52WG70P
+6-V241V??G?2F3             39-4Z8XV6MHCM?2             72-876WV7VWC3FS
+7-V261?32BVLDL             40-603?!2CHGR?R             73-80W22W7W!LZ5
+8-X34!?7!WHL13             41-X4W53WMBCRH3             74-7?X32!VV!RXN
+9-0X?52!6!HQXM             42-W2X52!BGGQCR             75-91?9323W?RJ8
+10-VWZ66V!!HMJ6            43-Z5W366MGG3!6             76-7?X363?V!RDP
+11-0Z04776?HQDL            44-XSZ263HHB3VL             77-69Z8VV3V!214
+12-0V!262?G?LD7            45-61Z7WV3BVLBM             78-9704!VVVCMF4
+13-13X3V?2WH307            46-9Z?3VWGGG2GL             79-3413V63?W3D9
+14-04W2?V?VC7ZR            47-5XX8?2MB!QV7             80-86V7!6!??2FS
+15-1207W22!G6F3            48-7XZ3V3BCWQWQ             81-43VZ2WMBHQ14
+16-?5W5?3?!G3FQ            49-6XVX3!LGVRB6             82-35XV7!CBBL1S
+17-?4ZW7?6??LX6            50-9X0X7VGC?MCR             83-55??27MGBAF4
+18-05X07!?VWM0L            51-6X?127MHV7V7             84-33W!76GCCRJN
+19-15W0373V!QF3            52-6XW132CH!3?R             85-4SZ?!?MHB209
+20-?30177WVWRKR            53-9V11?WMBW3H3             86-84?XW!HBG2XN
+21-X8?WWW2W?2?3            54-8VV0??CB?6HQ             87-54X0!2RGH3KS
+22-?4X1!VW?!61Q            55-7WX1?2RVHL?2             88-93XXV6BGC2FS
+23-Z6XVW27CV7B7            56-7V10V2?C?2C2             89-45563?2WG2X8
+24-V8WZ?6?GW2CQ            57-31357?MWBMDP             90-72543?WWC3D9
+25-W6873V6?GM?3            58-20373VG!H614             91-9S77766WB6FS
+26-Z9793?V!CR?Q            59-3!4927QVB21T             92-639833!WWMX8
+27-W942773WBRC3            60-3?3672H!G3D8             93-?V96?!3?VLZT
+28-X74673?VC7!L            61-6625VWMVB2JS             94-!V27V??!WRJ8
+29-8!64V!7?C2B7            62-8953V!C??Q05             95-X!63?72V?6V8
+30-2157!VVVG6HR            63-9934!6R?!R1N             96-Z?43?6?V!6!P
+31-7?43V33?WRW2            64-6754!3B??LF8             97-V0312!2VV3H4
+32-6!34V6V??RWR            65-675!3?L?WRJN             98-0!2W3WCGGL!8
+33-713Z6!6?!LC2            66-99307?CW?6X8             99-105V333WC7CT
+34-3?706!WB!QB6            67-266Z627?CQ1S
+============================================================================
+                           S T R A T E G I E S
+============================================================================
+1. Don't grab a capsule that is too far away you can lose the mission that
+   way.
+2. In some stages there may be a power-up (example in Level 6 the laser
+   capsules help you destroy the column of gray blocks) you might want to
+   search for them then can be a big help.
+3. At the beggining of a stage your ship will have the ball stuck to it take
+   advantage of this moment and quickly put the ship into a position so that
+   the ball will bounce where you want it to.
+4. If you have a much needed power-up in a stage go out of your way to get
+   out of the way of other falling capsules becuase some capsules can revert
+   your ship and therefore destroy your power-up.
+5. Take any warps that you see unless your going for points.
+6. Once you get familiar with the game go to the options screen and set a
+   higher game speed it is easier to destroy blocks when the ball is going
+   faster.
+7. Hold down the B or Y button when moving your scout ship on a controller,
+   press and hold the left mouse button when using a mouse to make your ship
+   go faster.
+============================================================================
+                             E N E M I E S
+============================================================================
+1. Mini-Saturns: These enemies look like small saturn shaped orbs.  They
+help you because when you destroy them they have a large explosion and that
+explosion may help get rid of some blocks.
+
+2. Red Blobs: These enemies look like red blobs that change shape from a
+diamond to a circle constantly.  They are big pain in the %$#.  Because they
+can create new blocks for you to destroy if you give them long enough.
+
+3. Bubbles: These enemies look like y' know....bubbles!  When your ball hits
+them (assuming your ball doesn't have the M Capsule Power-Up) it will suck
+it up and place it in a new section of the puzzle this can be either helpful
+or hurtful.  Depending on where the bubbles reappear.  If you do have an M
+capsule power-up they will be destroyed when hit by your ball.
+
+4. Molecular Model: This enemy looks like a molecule.  When hit they will
+explode and release their three balls destroying any of your blocks in your
+way.  But you won't get points for the blocks they destroy.  One more hit
+from your ball will destroy the balls flying around.
+
+5. Triangle/Circle: These thingss look like a Triangle rotating on one end
+of a circle.  They do nothing except get in the way.
+
+6. Infinitys: These look like an infinity symbol or if you can't understand
+that they look like a rotating capital "S".  These things generate feilds of
+electricity that makes hard for you to get your ball past them.
+============================================================================
+                           B O S S E S
+============================================================================
+YOU AFCE EACH OF THESE BOSSES 2 TIMES IN THE ENTIRE GAME THERE ARE 3 OF THEM
+THEY ARE:
+~~~~~~~~~~~~~~~
+GIANT CENTIPEDE
+~~~~~~~~~~~~~~~
+This boss is rather easy hitting him anywhere causes damage.  You face him
+first be careful that you do not get hit by the debris that he spits from
+his parts.  Also watch out when he compacts into a little ball because he is
+about to come straight at you.  Move out the way.  You face him first.  You
+fight him on levels: 11, 44, 77.
+~~~~~~~~~~
+Doh's Face
+~~~~~~~~~~
+This boss is tough unless you know where to hide when he fires at you.  He
+will spit out Mini-Faces that will also shoot at you when they stop moving
+and go up towards the top of the screen and to the lower right and left.  He
+can realease 4 of them at a time you can take them out before they fire to
+make it easier for you.  But they'll come back.  If all the faces do fire
+hide in between the upper Mini-face and Doh's Face.  You'll survive but
+youre ball will probably fall offscreen and you will lose.  For many of
+the players this is the first stage they will lose.  Tryo to sneak in shots
+at Doh's Face whenever possible and whenever he takes enough dammage the
+mini faces will blow up and his face will turn around.  And he will fire
+lasers at wherever you are.  Keep moving.  And use your ball to hit him some
+more.  The more you hit the bigger his face will get.  He is an easy target
+now but so are you.  But not as much as you think.  You shouldn't have any
+trouble when his face gets big.  You fight this one in levels: 22, 55, 88.
+~~~~~~~~~
+SUPER DOH
+~~~~~~~~~
+This boss is probably the hardest espiecally when you face him for the last
+time.  He can hit you with his arms and he also can turn the screen around
+reversing your controls.  Try to take it slow and get the bal up underneath
+him when he is turned around chances are it won't come back out.  When he
+takes enough damage.  He will turn back around again and repeat this process
+Bash him, he will turn around, then wedge the ball when he is turned around,
+he will turn around again, and repeat.  After all of his arms are blown off
+he will constantly fire lasers at you.  Keep moving and hit his body until
+he blows up.  You face him in levels: 33, 66, 99.
+============================================================================
+                          P O W E R - U P S
+============================================================================
+S CAPSULE-Changes your scout ship back to normal if it has been changed by a
+capsule. (Can be used with none of the power-ups.)
+~~~~~~~~~
+T CAPSULE-Creates a forcefield on either sides of your ship it will deflect
+only 1 missed ball.  Sometimes when you haven't really missed a ball it will
+dissapear as if it was hit. 
+~~~~~~~~~
+M CAPSULE-Changes your ball so it destroys all blocks it hits in ts path.
+
+~~~~~~~~~
+L CAPSULE-Gives your ship a gray appearance and gives it the ability to
+shoot lasers at blocks. Press the A button to fire. 
+~~~~~~~~~
+G CAPSULE-Whenever your ball hits your ship it will stick to it for a while
+giving you an oppurtunity to put it in a strategic position.  (Of course
+after getting this capsule.) Or press A or X to relase the ball.  The ball
+will only stay on for a while. 
+~~~~~~~~~
+E CAPSULE-The length of your ship is doubled you can only collect this
+capsule twice with an effect.  Thus, you cannot collect 3 and get a tripled
+length.  
+~~~~~~~~~
+D CAPSULE-Collecting this will genrate 8 balls in this SNES version.  This
+can help you destroy a LOT of blocks.
+~~~~~~~~~
+B CAPSULE-Catch this capusle to open a warp gate to the next higher level.
+(Can be used with all of the forementioned capsules including P.)
+~~~~~~~~~
+P CAPSULE-An Extra scout ship (or life) will be added to your total lives.
+(Can be used with any capsules).  These capsules are rare.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+KEEP IN MIND HERE THAT CAN BE USED WITH MEANS THAT IT CAN BE COMBINED WITH
+THOSE MENTIONED POWER-UPS WITH OUT LOSING ITS ORIGINAL STATE.  THE FIRST
+STATE THE FIRST POWER-UP GAVE IT.
+============================================================================
+               C O N T R O L S  W I T H  A  C O N T R O L L E R
+============================================================================
+Intro: The controller itself not being as manuerevable on the title screen
+still it is better to use when selecting choices on the title or options
+screen.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Control, Direction, or D Pad-Move ship left to right.  Select a choice on
+Title Screen, Options Screen, or Edit Screen.
+~~~~~~~~~~~~~~~~
+START-Pause game, confirm selection on Title Screen, Options Screen, or Edit
+Screen.
+~~~~~~~~~~~~~~~~
+SELECT-Pause Game.
+~~~~~~~~~~~~~~~~
+"A" + " X" Buttons-Fire Lasers, or release ball when stuck to ship, use this
+to select a B. G. M. or S. E. on the options screen.
+~~~~~~~~~~~~~~~~
+"B" + "Y" Buttons-Hold either button to make your scout ship go faster.
+~~~~~~~~~~~~~~~~
+"L" + "R" Buttons-Not used in this game.
+============================================================================
+                    C O N T R O L S  W I T H  A  M O U S E
+============================================================================
+Right Button-Use this to pause or select a choice on the Title Screen, Edit
+Screen, or Options Screen.  Or to select between choices of enemies, blocks,
+or other obstructions on the Edit Screen.  This also stops the opening
+cinema.  And this speeds up the Continue Countdown.  Left starts a continue.
+~~~~~~~~~~~~~~~~
+Left Button-Prees and hold the Left Mouse Button to make your ship go faster
+also, use it for letting the ball go when it is glued to your ship or fire
+lasers.
+~~~~~~~~~~~~~~~~
+Sliding Mouse Left to Right on the Pad@-Use this motion on the pad to move
+your ship left to right.  Also use it to make a choice concerning the
+difficulty, Speed, Player Stock, Game Level, Sound, BGM, or SE...on the
+options screen.  Oh yeah, and press the Right Button to select a BGM or SE
+on the Option Screen.  Also, use this to select an objecton the edit screen.
+~~~~~~~~~~~~~~~~
+Sliding Mouse up or down on the Pad@-Use this motion to select a choice on
+the Title Screen, or Options Screen.
+~~~~~~~~~~~~~~~~
+Combined motions of Left & Right, or Up & Down on the Pad@-Use these motions
+to select something on the Edit Screen.  (What I mean about this is moving
+the cursor to wherever the item is that you need to select.)
+@-This Pad is the SNES Official Mouse Pad included with the SNES Mouse...
+All are registered indicia of.....oh SCREW IT!  You don't give a #&$ do ya
+BARBOID!?  (Who needs all that Legal #$%#!)
+============================================================================
+                         G L I T C H E S
+============================================================================
+There are many a glitches with this game at least that what I think.  Anyway
+here are the ones I found as of this writing.
+Glitch #1-Play a 1 player game then lose.  Then let the continue timer run
+down to zero.  Then select a 2 Player C Game.  In this game you will play
+the normal order of stages and bosses in the one Player game using the 2
+Player Format.
+Glitch #2-This is the exact opposite of the above one.  Play a 2 Player
+C Game and let one side lose and don't continue.  Then enter a password
+you will end up playing a one player game with 2 scout ships on either side
+on the screen for players 1 and 2.  For fun,  when fighting the Super Doh
+boss.  Press Start a couple of times until the top of the playing field
+scrambles.  You will then hear the 2 player battle mode music.  This trick
+could work with other bosses as well.  If you can't start a new one player
+game with this procedure try resetting the system after the continue
+countdown goes to zero.
+Glitch #3-When in the edit mode make a pussle the size of the field.  Then
+instead of exiting press the other button instead of the other button you
+would use when the cursor is on the exit sqaure do this a couple of times
+then quickly exit the background area around the exit button should
+scramble.
+Glitch #4-Pause right after the ship fully appears on the 1 player game
+screen.  The game should freeze a little after you unpause.  This doesn't
+always work.
+Glitch #5-I think this is a glitch anyway.  If you do the above Glitch #5
+trick and it doesn't work from then on the ball will take a little while
+to appear on top of the ship when starting a new stage or after losing a
+life.
+Glitch #6-I think that the level 33, and 66 cinema are exactly the same.
+It seems that nintendo got lazy while making this game!
+============================================================================
+                           O B S T R U C T I O N S
+============================================================================
+White, Green, Orange, Dark Blue, Yellow, Pink, and Red Blocks
+These can be destroyed with one hit.
+~~~~~~~~~~~~~~~~~
+Silver Blocks
+You must hit this block 3 times to shatter it.
+~~~~~~~~~~~~~~~~~
+Gold Blocks
+These blocks cannot be destroyed instead use them to ricochet your ball into
+other places.
+============================================================================
+                              O P T I O N S
+============================================================================
+Choices listed on the Game Options screen:
+~~~~~~~~~~~~~~~~~~~~~~
+Player Speed: To change your normal travel speed, adjust this setting up
+higher to go faster.  It is set up like this....
+PLAYER SPEED
+        <SLOW  . . . . o . . .  FAST>
+~~~~~~~~~~~~~~~~~~~~~~
+Player Stock: Change this number to change the number of lives you start out
+with.  Your choices are 3, 5, or 7 lives.
+~~~~~~~~~~~~~~~~~~~~~~
+Game Level: Select between Easy, Normal, and Hard game levels.  This changes
+the difficulty of the levels.
+~~~~~~~~~~~~~~~~~~~~~~
+Edit: Select this to enter an edit mode where you can create your own levels
+to play.  More on this in the next section.
+~~~~~~~~~~~~~~~~~~~~~~
+Sound: Mono (Monoaural) or Stereo Sound Settings.
+~~~~~~~~~~~~~~~~~~~~~~
+B. G. M.: Select a number to hear a music track from the game.
+~~~~~~~~~~~~~~~~~~~~~~
+S. E.: Select a number to hear a sound effect from the game.
+============================================================================
+                           E D I T  M O D E
+============================================================================
+To design your own level,  Choose Edit on the Options Screen.  You will be
+sent to a screen with this layout.....
+   |----------------------------------|  EDIT
+   |                                  |    MODE
+   |                                  |
+   |                                  |  |-----||-----|
+   |                                  |  |  1  ||  2  |
+   |                                  |  |-----||-----|
+   |                                  |  |-----||-----|
+   |                                  |  |  3  ||  4  |
+   |                                  |  |-----||-----|
+   |                                  |  |-----||-----|
+16 |            7                     |  |  5  ||  6  |
+   |                                  |  |-----||-----|
+   |                                  |  |------------|
+   |                                  |  |     8      |
+   |                                  |  |------------|
+   |                                  |
+   |                                  |  |------------|
+   |                                  |  |     9      |
+   |                                  |  |------------|
+   |                                  |
+   |                                  |
+   |----------------------------------|
+              10
+The above drawing is a key for the different items on this screen.
+Here is the key for whats on here......
+|-----------------------------------------|
+|KEY                                      |
+|-----------------------------------------|
+|1-Normal Blocks Selector                 |
+|2-Capsules Selector                      |
+|3-Silver (Gray) Blocks Selector          |
+|4-Enemy Selector                         |
+|5-Gold Blocks Selector                   |
+|6-Background Selector                    |
+|7-Puzzle Field                           |
+|8-Play Button                            |
+|9-Exit Button                            |
+|16-Heigth of Editable Area.              |
+|17-Length of Editable Area.              |
+|-----------------------------------------|
+Item number 1 is used to place blocks on the field that can be destroyed
+with 1 hit, Item Number 2 is used to place capsules in Normal Blocks, Item
+Number 3 is used to place blocks that can be destroyed with 3 hits, Item
+Number 4 is used to select an enemy to place in the puzzle, Item Number 5
+is used to place blocks on the feild that cannot be destroyed, Item Number
+6 is used to select a background for your puzzle, Item Number 7 is your
+editing area for your puzzle, Item Number 8 is a button that lets you play
+your puzzle, and Item Number 9 is a button that lets you exit the edit mode.
+~~~~~~~
+To place a block on the puzzle select Item Number 1 then go to the Puzzle
+Field area and press X to place it where the cursor is pointing to.  This
+is the same for Item Numbers 3 and 5.  To put a capsule in a block select
+Item Number 2 and point the cursor ON the block you wish to put it in then
+press X to put in there (you have no choice of the type of power up you want
+in the blocks.)  To place an enemy in your puzzle select Item Number 4 then
+toggle through the coices by using the B Button then press X when you are
+done selecting your enemy.  To select a background place the cursor on Item
+Number 6 and press B to toggle through the choices of Backdrops once you are
+done press X.  To play your puzzle put the cursor on Item Number 8 and press
+X.  To exit the edit mode put the cursor on Item Number 9 and press X.
+Oh Yeah, the puzzle field is 16 X 10.
+============================================================================
+                             S C O R I N G
+============================================================================
+10 points-each time the ball hits your scout ship.
+30,000; 80,000 points-for destroying a boss.
+0 points-for hitting a Gold Block.
+500 points for destroying a normal block.
+0 points for destroying a Gray Block.
+Earning 40,000 points-Gives you an extra life.  (Earn 80,000 to get another
+one, 120,000 and so on.....)
+============================================================================
+                             E N D I N G
+============================================================================
+This is a brief telling of what the ending to this game is.........
+(WARNING! THIS IS A SPOILER.  YOU SHOULD NOT AW F**% IT!  READ IT ANYWAY FOR
+ALL I CARE...)
+The ending shows a sunset pic with your crew hanging aounrd your scout ship.
+A scout ship flys up to the screen.  Then it will show you a computer screen
+in which Commander Therele types his last thoughts about the mission.  Then
+the game will give you your play time.
+============================================================================
+              O T H E R  T H I N G S  T O  W A T C H  F O R
+============================================================================
+Be careful when enemies are flying around your ball the ball can hit them
+and usually the ball will go flying in a different direction causing you
+to miss it.
+Try to rebound your ball so that it hits a block that is hard to reach.
+When you have caught the T Capsule and you have a force field be careful not
+to let the ball hit the very end of your scout ship if you do let it hit
+the very end of your scout ship you will lose the force field.
+After levels 33, 66, and 99 you will see a cinema scenes.  The level 33
+cinema and level 66 cinema are exatly the same.  You will get credits after
+level 66 wait after the credits and the game will start up on level 67.
+\--------------------------------------------------------------------------/
+|                            Disclaimer                                    |
+|--------------------------------------------------------------------------|
+|       IF YOU WANT THIS ON YOUR WEBPAGE DO NOT COPY IT!  JUST ADD A LINK  |
+|TO THE URL OF THIS FILE TO YOUR WEBPAGE!  IF YOU WANT TO CHANGE THIS IN   |
+|ANYWAY COME TO ME TELLING ME WHAT YOU WANT TO CHANGE BEFORE YOU CHANGE    |
+|IT!  AND ALSO GIVE ME CREDIT FOR IT ON YOUR VERSION!                      |
+/--------------------------------------------------------------------------\
+Last Edited on 4:47 PM 4/19/98

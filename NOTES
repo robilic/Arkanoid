@@ -1,0 +1,75 @@
+background.png - 880x216, 5 background images 176x216 (352x432 doubled)
+
+Bricks:
+
+16x8, 10 different colors
+
+Playfield is 10x10
+
+Gold bricks cannot be destroyed at all. They are indestructible, and therefore not counted against you towards your attempt to clear an area of bricks. Silver bricks take more than one hit to destroy. In the beginning, they only require two to destroy, but the number of hits it takes to remove them increases by one every eight stages. 
+
+Bats:
+
+0-0     3 (24)
+0--0    4 (32)
+0----0  6 (48)
+
+Ball:
+
+5x5, image is 9x9 including shadow
+
+ 000
+0   0
+0   0
+0   0
+ 000
+
+Paddles:
+  4 paddles (small, medium, large, exploding)
+  4 frames of animation
+  3*8, 4*8, 6*8 wide, with an extra 8 pixels for shadow
+
+Bullets:
+  4x4 sprites
+
+PowerUps:
+	9 powerups available (#10 is shadow)
+	8 sprites each
+	sprites are 16x8
+	0 B - Break out - creates exit on right side
+	1 C - Catch
+	2 D - Disrupt (multiple balls)
+	3 E - Enlarge
+	4 L - laser
+	5 M - Metal ball - destroys bricks instead of bouncing 
+	6 P - Player (free life)
+	7 S - Slow
+	8 T - Forcefield
+
+THINGS TO ADD:
+
+	Indestructible bricks (gold)
+	Change color for metal ball?
+
+	Falling Power-ups:
+	 Sticky paddle
+	 Free life
+	 Slow down/speed up ball
+	 
+	Points - different bricks - different points?
+	Multiple Lives
+	End level/Load next level
+
+Added:
+	Multiple balls
+	Hit bricks on sides
+	Paddle bounces ball
+	Paddle bounces ball at angles
+	Bricks of different strength
+	Powerups fall
+	PowerUps
+ 	 Ability to shoot lasers
+	 Larger/smaller paddle
+	 Steel ball (crashes through bricks)
+	Double buffer?
+	 Flicker was noticeable
